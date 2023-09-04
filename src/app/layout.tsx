@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google';
 import Navbar from '@/components/Navbar';
 
 export const metadata = {
-  title: 'Discussion forum',
+  title: 'DiscussionForum',
   description: 'A Reddit clone built with Next.js and TypeScript.',
 };
 
